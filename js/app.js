@@ -56,3 +56,4 @@ $("#select").change(function () {
         $('section').removeClass('off');
     }
 });
+console.log($('li'));
